@@ -245,9 +245,6 @@ void player_vs_computer(char table[3][3]){
                         Y=i;
                         X=j;
                     }
-                    //if (result==1){
-                    //    flag1=1;
-                    //}
                 }
             }
         }
